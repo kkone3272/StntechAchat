@@ -1,4 +1,5 @@
- {
+[
+    {
         "device_id": "device123",
         "username": "user1",
         "password": "pass123",
@@ -6,9 +7,10 @@
         "Allowoffline": true
     },
     {
-        "device_id": "4dbb25a676838349",
+        "device_id": "device456",
         "username": "user2",
-        "password": "MECBIEN",
-        "expirydate": "09-11-2026",
+        "password": "MERCISTN",
+        "expirydate": "15-06-2025",
         "Allowoffline": false
     }
+]
