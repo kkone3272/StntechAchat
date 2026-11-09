@@ -1,14 +1,12 @@
-{
-        "device_id": "device1",
-        "username": "StnTech®",
-        "password": "mercistn",
-        "expirydate": "09-11-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "device2",
-        "username": "stn",
-        "password": "pass2026",
-        "expirydate": "09-11-2026",
-        "Allowoffline": false
-    }
+ {
+    "device_id": "07FA23D3540A8706",
+    "key": "MERCISTNTECH",
+    "expirydate": "09-11-2026",
+    "Allowoffline": true
+  },
+  {
+    "device_id": "07FA23D3540A8706",
+    "key": "MECBIEN",
+    "expirydate": "31-12-2026",
+    "Allowoffline": true
+  }
