@@ -1,12 +1,14 @@
 {
-  "ver": "1.0.0",
-  "force": false,
-  "upUrl": "",
-  "tg": "https://chat.whatsapp.com/Hy4UTRw7wYkFjraHM4rWrK?s=cl&p=a&iam=2",
-  "wa": "",
-  "yt": "",
-  "ig": "",
-  "m1": "1. Welcome to StnTech ® Modder. 🇨🇮🥇🛠️🛠️🛠️🎭",
-  "m2": "2. Joindre l'administrateur sur WhatsApp pour Achat.",
-  "m3": "3. Nous avons besoins de vos avis en commentaire...."
-}
+        "device_id": "device1",
+        "username": "StnTech®",
+        "password": "mercistn",
+        "expirydate": "09-11-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device2",
+        "username": "stn",
+        "password": "pass2026",
+        "expirydate": "09-11-2026",
+        "Allowoffline": false
+    }
